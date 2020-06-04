@@ -103,7 +103,7 @@ public class SetupController
             loader.setController(controller);
             //loading in the new fxml scene to the stage and change name
             stage.setScene(new Scene(loader.load()));
-            stage.setTitle("SimuBank Banking Software v1.0.4.7");
+            stage.setTitle("VIT Banking Software v1.0.4.7");
             //show stage
             stage.show();
         }
